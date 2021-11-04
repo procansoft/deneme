@@ -42,7 +42,6 @@
     <Content Include="runtime.txt" />
     <Content Include="templates\home.html" />
     <Content Include="templates\output.html" />
-    <Content Include="TextFile1.txt" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
